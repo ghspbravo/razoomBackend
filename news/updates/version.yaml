@@ -1,0 +1,20 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table zotovda_news_items'
+    - builder_table_create_zotovda_news_items.php
+1.0.3:
+    - 'Updated table zotovda_news_items'
+    - builder_table_update_zotovda_news_items.php
+1.0.4:
+    - 'Updated table zotovda_news_items'
+    - builder_table_update_zotovda_news_items_2.php
+1.0.5:
+    - 'Updated table zotovda_news_items'
+    - builder_table_update_zotovda_news_items_3.php
+1.0.6:
+    - 'Updated table zotovda_news_items'
+    - builder_table_update_zotovda_news_items_4.php
+1.0.7:
+    - 'Updated table zotovda_news_items'
+    - builder_table_update_zotovda_news_items_5.php

@@ -1,0 +1,11 @@
+plugin:
+    name: 'zotovda.events::lang.plugin.name'
+    description: 'zotovda.events::lang.plugin.description'
+    author: ZotovDA
+    icon: oc-icon-group
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Мероприятия
+        url: zotovda/events/events
+        icon: icon-group

@@ -1,0 +1,11 @@
+plugin:
+    name: 'zotovda.news::lang.plugin.name'
+    description: 'zotovda.news::lang.plugin.description'
+    author: ZotovDA
+    icon: oc-icon-newspaper-o
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Новости
+        url: zotovda/news/news
+        icon: icon-newspaper-o

@@ -1,0 +1,5 @@
+title: Events
+modelClass: Zotovda\Events\Models\Events
+nameFrom: title
+toolbar:
+    buttons: reorder_toolbar

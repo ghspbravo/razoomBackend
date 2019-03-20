@@ -1,0 +1,11 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table zotovda_events_items'
+    - builder_table_create_zotovda_events_items.php
+1.0.3:
+    - 'Updated table zotovda_events_items'
+    - builder_table_update_zotovda_events_items.php
+1.0.4:
+    - 'Updated table zotovda_events_items'
+    - builder_table_update_zotovda_events_items_2.php

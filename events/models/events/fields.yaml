@@ -1,0 +1,50 @@
+fields:
+    title:
+        label: Название
+        span: full
+        required: 1
+        type: text
+    content:
+        label: Содержание
+        size: giant
+        span: full
+        required: 1
+        stretch: 0
+        type: richeditor
+    apply_link:
+        label: 'Ссылка на регистрацию'
+        span: full
+        type: text
+    place:
+        label: 'Место проведения'
+        span: full
+        dependsOn: {  }
+        type: text
+    date_and_place:
+        label: 'Дата и время проведения'
+        span: full
+        type: text
+        comment: 'Например:  10 марта, 16:00'
+    dates:
+        label: 'Диапазон дат проведения'
+        span: full
+        type: text
+        comment: 'Например: 9 марта — 11 марта'
+    poster:
+        label: Превью
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload
+    gallery:
+        label: Галерея
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload

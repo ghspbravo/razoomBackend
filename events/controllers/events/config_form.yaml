@@ -1,0 +1,10 @@
+name: Events
+form: $/zotovda/events/models/events/fields.yaml
+modelClass: Zotovda\Events\Models\Events
+defaultRedirect: zotovda/events/events
+create:
+    redirect: 'zotovda/events/events/update/:id'
+    redirectClose: zotovda/events/events
+update:
+    redirect: zotovda/events/events
+    redirectClose: zotovda/events/events

@@ -1,0 +1,5 @@
+title: News
+modelClass: Zotovda\News\Models\News
+nameFrom: title
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,15 @@
+title: News
+modelClass: Zotovda\News\Models\News
+list: $/zotovda/news/models/news/columns.yaml
+recordUrl: 'zotovda/news/news/update/:id'
+noRecordsMessage: 'backend::lang.list.no_records'
+recordsPerPage: '10'
+showSetup: true
+showCheckboxes: true
+defaultSort:
+    column: created_at
+    direction: desc
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'

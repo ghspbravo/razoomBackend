@@ -1,0 +1,38 @@
+fields:
+    title:
+        label: Название
+        span: full
+        required: 1
+        type: text
+    content:
+        label: Содержание
+        size: giant
+        span: full
+        placeholder: 'Я бы хотел поделиться...'
+        required: 1
+        type: richeditor
+    excerpt:
+        label: 'Краткое описание'
+        size: tiny
+        span: full
+        required: 0
+        type: textarea
+        commentAbove: 'Данный текст будет отображаться в карточке новости'
+    poster:
+        label: 'Миниатюра новости'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload
+    gallery:
+        label: Галерея
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: auto
+        type: fileupload

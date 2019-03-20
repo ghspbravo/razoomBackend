@@ -1,0 +1,11 @@
+name: News
+modelClass: Zotovda\News\Models\News
+form: $/zotovda/news/models/news/fields.yaml
+defaultRedirect: zotovda/news/news
+create:
+    redirect: 'zotovda/news/news/update/:id'
+    redirectClose: zotovda/news/news
+update:
+    redirect: zotovda/news/news
+    redirectClose: zotovda/news/news
+preview: {  }
