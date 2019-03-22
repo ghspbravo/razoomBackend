@@ -1,0 +1,4 @@
+title: FooterLogos
+modelClass: Zotovda\Content\Models\FooterLogos
+toolbar:
+    buttons: reorder_toolbar

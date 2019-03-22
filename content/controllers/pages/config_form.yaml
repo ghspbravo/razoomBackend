@@ -1,0 +1,10 @@
+name: Pages
+form: $/zotovda/content/models/pages/fields.yaml
+modelClass: Zotovda\Content\Models\Pages
+defaultRedirect: zotovda/content/pages
+create:
+    redirect: 'zotovda/content/pages/update/:id'
+    redirectClose: zotovda/content/pages
+update:
+    redirect: zotovda/content/pages
+    redirectClose: zotovda/content/pages

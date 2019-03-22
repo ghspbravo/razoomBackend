@@ -1,0 +1,10 @@
+name: Reviews
+form: $/zotovda/content/models/reviews/fields.yaml
+modelClass: Zotovda\Content\Models\Reviews
+defaultRedirect: zotovda/content/reviews
+create:
+    redirect: 'zotovda/content/reviews/update/:id'
+    redirectClose: zotovda/content/reviews
+update:
+    redirect: zotovda/content/reviews
+    redirectClose: zotovda/content/reviews

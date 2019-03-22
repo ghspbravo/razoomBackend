@@ -1,0 +1,11 @@
+name: Content
+modelClass: Zotovda\Content\Models\Content
+form: $/zotovda/content/models/content/fields.yaml
+defaultRedirect: zotovda/content/content
+create:
+    redirect: 'zotovda/content/content/update/:id'
+    redirectClose: zotovda/content/content
+update:
+    redirect: zotovda/content/content
+    redirectClose: zotovda/content/content
+preview: {  }

@@ -1,0 +1,7 @@
+columns:
+    id:
+        label: id
+        type: number
+    logo_link:
+        label: logo_link
+        type: text

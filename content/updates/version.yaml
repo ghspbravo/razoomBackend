@@ -1,0 +1,53 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table zotovda_content_factoids'
+    - builder_table_create_zotovda_content_factoids.php
+1.0.3:
+    - 'Updated table zotovda_content_items'
+    - builder_table_update_zotovda_content_items.php
+1.0.4:
+    - 'Created table zotovda_content_topbanner'
+    - builder_table_create_zotovda_content_topbanner.php
+1.0.5:
+    - 'Created table zotovda_content_team'
+    - builder_table_create_zotovda_content_team.php
+1.0.6:
+    - 'Updated table zotovda_content_topbanner'
+    - builder_table_update_zotovda_content_topbanner.php
+1.0.7:
+    - 'Created table zotovda_content_reviews'
+    - builder_table_create_zotovda_content_reviews.php
+1.0.8:
+    - 'Updated table zotovda_content_items'
+    - builder_table_update_zotovda_content_items_2.php
+1.0.9:
+    - 'Updated table zotovda_content_items'
+    - builder_table_update_zotovda_content_items_3.php
+1.0.10:
+    - 'Created table zotovda_content_pages'
+    - builder_table_create_zotovda_content_pages.php
+1.0.11:
+    - 'Updated table zotovda_content_pages'
+    - builder_table_update_zotovda_content_pages.php
+1.0.12:
+    - 'Updated table zotovda_content_pages'
+    - builder_table_update_zotovda_content_pages_2.php
+1.0.13:
+    - 'Updated table zotovda_content_items'
+    - builder_table_update_zotovda_content_items_4.php
+1.0.14:
+    - 'Created table zotovda_content_footer_logos'
+    - builder_table_create_zotovda_content_footer_logos.php
+1.0.15:
+    - 'Updated table zotovda_content_topbanner'
+    - builder_table_update_zotovda_content_topbanner_2.php
+1.0.16:
+    - 'Updated table zotovda_content_pages'
+    - builder_table_update_zotovda_content_pages_3.php
+1.0.17:
+    - 'Updated table zotovda_content_pages'
+    - builder_table_update_zotovda_content_pages_4.php
+1.0.18:
+    - 'Updated table zotovda_content_pages'
+    - builder_table_update_zotovda_content_pages_5.php

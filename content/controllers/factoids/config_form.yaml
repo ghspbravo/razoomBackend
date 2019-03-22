@@ -1,0 +1,10 @@
+name: Factoids
+form: $/zotovda/content/models/factoids/fields.yaml
+modelClass: Zotovda\Content\Models\Factoids
+defaultRedirect: zotovda/content/factoids
+create:
+    redirect: 'zotovda/content/factoids/update/:id'
+    redirectClose: zotovda/content/factoids
+update:
+    redirect: zotovda/content/factoids
+    redirectClose: zotovda/content/factoids

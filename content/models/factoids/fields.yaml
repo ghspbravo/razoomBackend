@@ -1,0 +1,9 @@
+fields:
+    number:
+        label: Значение
+        span: auto
+        type: text
+    description:
+        label: Описание
+        span: auto
+        type: text

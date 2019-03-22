@@ -1,0 +1,11 @@
+title: Content
+modelClass: Zotovda\Content\Models\Content
+list: $/zotovda/content/models/content/columns.yaml
+recordUrl: 'zotovda/content/content/update/:id'
+noRecordsMessage: 'backend::lang.list.no_records'
+recordsPerPage: 20
+showSorting: 0
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'

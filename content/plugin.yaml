@@ -1,0 +1,40 @@
+plugin:
+    name: 'zotovda.content::lang.plugin.name'
+    description: 'zotovda.content::lang.plugin.description'
+    author: ZotovDA
+    icon: oc-icon-code
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Контент
+        url: zotovda/content/content/update/1
+        icon: icon-code
+        sideMenu:
+            side-menu-item:
+                label: 'Элементы страниц'
+                url: zotovda/content/content/update/1
+                icon: icon-sitemap
+            side-menu-item7:
+                label: Страницы
+                url: zotovda/content/pages
+                icon: icon-file-text-o
+            side-menu-item2:
+                label: Фактоиды
+                url: zotovda/content/factoids
+                icon: icon-pie-chart
+            side-menu-item3:
+                label: 'Баннер на главной'
+                url: zotovda/content/topbanner
+                icon: icon-image
+            side-menu-item4:
+                label: Команда
+                url: zotovda/content/team
+                icon: icon-users
+            side-menu-item5:
+                label: Отзывы
+                url: zotovda/content/reviews
+                icon: icon-pencil-square-o
+            side-menu-item6:
+                label: 'Лого партнеров'
+                url: zotovda/content/footerlogos
+                icon: icon-google-plus

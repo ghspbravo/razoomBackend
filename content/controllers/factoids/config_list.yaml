@@ -1,0 +1,13 @@
+title: Factoids
+modelClass: Zotovda\Content\Models\Factoids
+list: $/zotovda/content/models/factoids/columns.yaml
+recordUrl: 'zotovda/content/factoids/update/:id'
+noRecordsMessage: 'backend::lang.list.no_records'
+recordsPerPage: 20
+showSetup: 1
+showCheckboxes: 1
+showSorting: 0
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'

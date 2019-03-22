@@ -1,0 +1,179 @@
+tabs:
+    fields:
+        home_about_title:
+            label: '«О проекте» название'
+            span: full
+            type: text
+            tab: Главная
+        home_about:
+            label: '«О проекте» контент'
+            size: large
+            span: full
+            type: richeditor
+            tab: Главная
+        home_about_slider:
+            label: '«О проекте» слайдер'
+            mode: file
+            useCaption: true
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: full
+            type: fileupload
+            tab: Главная
+        home_video_title:
+            label: '«Видео» заголовок'
+            span: full
+            type: text
+            tab: Главная
+        home_video_url:
+            label: '«Видео» ссылка на iframe ресурс'
+            span: full
+            type: text
+            tab: Главная
+        home_video_thumb:
+            label: '«Видео» миниатюра'
+            span: full
+            mode: file
+            useCaption: true
+            thumbOptions:
+                mode: crop
+                extension: auto
+            type: fileupload
+            tab: Главная
+        home_lead_title:
+            label: '«Выделенный блок» заголовок'
+            span: full
+            type: text
+            tab: Главная
+        home_lead_content:
+            label: '«Выделенный блок» контент'
+            size: large
+            span: full
+            type: richeditor
+            tab: Главная
+        home_events_title:
+            label: '«Мероприятия» заголовок'
+            span: full
+            type: text
+            tab: Главная
+        about_about_title:
+            label: '«О проекте» заголовок'
+            span: full
+            type: text
+            tab: 'О проекте'
+        about_about_content:
+            label: '«О проекте» контент'
+            size: large
+            span: full
+            type: richeditor
+            tab: 'О проекте'
+        about_slider:
+            label: '«О проекте» слайдер'
+            mode: file
+            useCaption: true
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: full
+            type: fileupload
+            tab: 'О проекте'
+        about_team_title:
+            label: '«Команда» заголовок'
+            span: full
+            type: text
+            tab: 'О проекте'
+        about_review_title:
+            label: '«Отзывы» заголовок'
+            span: full
+            type: text
+            tab: 'О проекте'
+        about_write_review_link:
+            label: '«Отзывы» ссылка на кнопку «Оставить отзыв»'
+            span: full
+            type: text
+            tab: 'О проекте'
+        fond_title:
+            label: Заголовок
+            span: full
+            type: text
+            tab: Фонд
+        fond_content:
+            label: Контент
+            size: giant
+            span: full
+            type: richeditor
+            tab: Фонд
+        events_title:
+            label: Заголовок
+            span: full
+            type: text
+            tab: Мероприятия
+        events_content:
+            label: Контент
+            size: large
+            span: full
+            type: richeditor
+            tab: Мероприятия
+        news_title:
+            label: Заголовок
+            span: full
+            type: text
+            tab: Новости
+        contacts_title:
+            label: Заголовок
+            span: full
+            type: text
+            tab: Контакты
+        contacts_map_x:
+            label: 'Координата X для карты'
+            span: auto
+            type: text
+            tab: Контакты
+        contacts_map_y:
+            label: 'Координата Y для карты'
+            span: auto
+            type: text
+            tab: Контакты
+        contacts_adress:
+            label: Адрес
+            span: full
+            type: text
+            tab: Контакты
+        contacts_mail:
+            label: 'Почтовый адрес'
+            span: auto
+            type: text
+            tab: Контакты
+        contacts_phone:
+            label: 'Телефонные номера'
+            size: small
+            span: auto
+            type: richeditor
+            tab: Контакты
+        contacts_fb:
+            label: 'Ссылка на группу facebook'
+            span: auto
+            type: text
+            tab: Контакты
+        contacts_vk:
+            label: 'Ссылка на группу ВК'
+            span: auto
+            type: text
+            tab: Контакты
+        contacts_in:
+            label: 'Ссылка на группу instagram'
+            span: auto
+            type: text
+            tab: Контакты
+        privacy_title:
+            label: Заголовок
+            span: full
+            type: text
+            tab: 'Политика конф.'
+        privacy_content:
+            label: Контент
+            size: giant
+            span: full
+            type: richeditor
+            tab: 'Политика конф.'

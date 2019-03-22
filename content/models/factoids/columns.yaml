@@ -1,0 +1,11 @@
+columns:
+    id:
+        label: id
+        type: number
+        invisible: true
+    number:
+        label: Значение
+        type: number
+    description:
+        label: Описание
+        type: text

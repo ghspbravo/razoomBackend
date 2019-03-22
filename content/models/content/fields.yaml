@@ -1,0 +1,43 @@
+fields:
+    logo:
+        label: Лого
+        mode: file
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: full
+        type: fileupload
+    phone:
+        label: Телефон
+        span: auto
+        type: text
+        commentAbove: 'Отображается в шапке'
+    email:
+        label: 'Почтовый адрес'
+        span: auto
+        type: text
+        commentAbove: 'Отображается в футере'
+    socials_fb:
+        label: Facebook
+        span: full
+        type: text
+        commentAbove: 'Ссылка на страницу профиля'
+    socials_vk:
+        label: Vkontakte
+        span: full
+        type: text
+        commentAbove: 'Ссылка на страницу профиля'
+    socials_in:
+        label: Instagram
+        span: full
+        type: text
+        commentAbove: 'Ссылка на страницу профиля'
+    endaument_link:
+        label: 'Ссылка  на страницу пожертвования'
+        span: full
+        type: text
+    collaboration_link:
+        label: 'Ссылка на страницу сотрудничества'
+        span: full
+        type: text

@@ -1,0 +1,4 @@
+title: Reviews
+modelClass: Zotovda\Content\Models\Reviews
+toolbar:
+    buttons: reorder_toolbar

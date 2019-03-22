@@ -1,0 +1,10 @@
+name: FooterLogos
+form: $/zotovda/content/models/footerlogos/fields.yaml
+modelClass: Zotovda\Content\Models\FooterLogos
+defaultRedirect: zotovda/content/footerlogos
+create:
+    redirect: 'zotovda/content/footerlogos/update/:id'
+    redirectClose: zotovda/content/footerlogos
+update:
+    redirect: zotovda/content/footerlogos
+    redirectClose: zotovda/content/footerlogos

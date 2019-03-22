@@ -1,0 +1,10 @@
+name: TopBanner
+form: $/zotovda/content/models/topbanner/fields.yaml
+modelClass: Zotovda\Content\Models\TopBanner
+defaultRedirect: zotovda/content/topbanner
+create:
+    redirect: 'zotovda/content/topbanner/update/:id'
+    redirectClose: zotovda/content/topbanner
+update:
+    redirect: zotovda/content/topbanner
+    redirectClose: zotovda/content/topbanner

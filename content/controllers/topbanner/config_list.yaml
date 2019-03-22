@@ -1,0 +1,13 @@
+title: TopBanner
+modelClass: Zotovda\Content\Models\TopBanner
+list: $/zotovda/content/models/topbanner/columns.yaml
+recordUrl: 'zotovda/content/topbanner/update/:id'
+noRecordsMessage: 'backend::lang.list.no_records'
+recordsPerPage: 20
+showSetup: true
+showCheckboxes: true
+showSorting: 0
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
