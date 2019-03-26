@@ -135,7 +135,7 @@ tabs:
             span: auto
             type: text
             tab: Контакты
-        contacts_adress:
+        contacts_address:
             label: Адрес
             span: full
             type: text
